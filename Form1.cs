@@ -1,12 +1,9 @@
-﻿/****************************************************************************
-**                               SAKARYA UNiVERSiTESi
-**                      BiLGiSAYAR VE BiLiSiM BiLiMLERi FAKULTESi
-**                          BiLGiSAYAR MUHENDiSLiGi BOLUMU
-**                            NESNEYE DAYALI PROGRAMLAMA 
-**
-**                          OGRENCi ADI......:RADWAN ALHOURANI
-**                          OGRENCi NUMARASi.:G**************
-**                          DERS GRUBU…………………: "2.A" grubu
+/****************************************************************************
+** Anti Aircraft Shooter 2D C# coded Desktop Game
+** Author : Ridvan Alhourani
+** Year : 2017
+** Copy Rights: Open Source
+** 
 ****************************************************************************/
 
 
